@@ -1,0 +1,6 @@
+CNN-RNN中文文本分类，基于tensorflow
+
+http://www.tensorflownews.com/2017/11/04/text-classification-with-cnn-and-rnn/
+
+THUCTC: 一个高效的中文文本分类工具包
+http://www.tensorflownews.com/2017/11/04/thu-chinese-text-classification/
