@@ -1,6 +1,8 @@
 # 用卷积神经网络基于 Tensorflow 实现的中文文本分类
 这个项目是基于以下项目改写：
  **[cnn-text-classification-tf](https://github.com/dennybritz/cnn-text-classification-tf)**
+ 
+ [关于 Chinese-Text-Classification 的问题欢迎来这里提问](http://tensorflow123.com/forum.php?mod=viewthread&tid=3)
 
 主要的改动：
 * 兼容 tensorflow 1.2 以上
